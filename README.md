@@ -39,3 +39,5 @@ La classe ubicada al paquet controllers (FruitaController, per exemple), haurà 
     http://localhost:8080/fruita/getOne/{id}
     http://localhost:8080/fruita/getAll
 
+## application.properties
+[![N|Solid](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1666775845/logo.png)](https://nodesource.com/products/nsolid)
