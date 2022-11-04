@@ -1,0 +1,9 @@
+2022-09-02 11:53:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUITES" not found (this database is empty); SQL statement:
+select fruita0_.id as id1_0_, fruita0_.nom as nom2_0_, fruita0_.quantitat_quilos as quantita3_0_ from fruites fruita0_ [42104-214]
+2022-09-02 11:56:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUITES" not found (this database is empty); SQL statement:
+select fruita0_.id as id1_0_, fruita0_.nom as nom2_0_, fruita0_.quantitat_quilos as quantita3_0_ from fruites fruita0_ [42104-214]
+2022-09-02 11:56:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FRUITES" not found (this database is empty); SQL statement:
+select fruita0_.id as id1_0_, fruita0_.nom as nom2_0_, fruita0_.quantitat_quilos as quantita3_0_ from fruites fruita0_ [42104-214]
