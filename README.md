@@ -2,7 +2,7 @@
 ## Api Rest amb Spring boot
 
 ![N|Solid](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/g8fordbc3yi5ivrurkxe)![N|Solid](https://logistreak.com/images/icon/mysql.png)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) amb 3 bases de dades diferents.
 
