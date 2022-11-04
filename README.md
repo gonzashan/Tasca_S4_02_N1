@@ -1,4 +1,4 @@
-# Tasca_S4_02_N1
+# Tasca_S4_02_N1 & Tasca_S4_02_N2
 ## Api Rest amb Spring boot
 
 [![N|Solid](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1666775845/logo.png)](https://nodesource.com/products/nsolid)
@@ -17,7 +17,7 @@ Aprendràs a usar correctament els verbs HTTP i a gestionar els codis de respost
 - CRUD amb Spring boot.
 - H2, MySQL, MongoDB.
 
-## Exercici CRUD amb H2
+## Exercici CRUD amb H2 i MYSQL
 Tenim una entitat anomenada "Fruita", que disposa de les següents propietats:
 
     int id
