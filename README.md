@@ -39,4 +39,5 @@ La classe ubicada al paquet controllers (FruitaController, per exemple), haurà 
     http://localhost:8080/fruita/getAll
 
 ## application.properties
-[![N|Solid](https://github.com/gonzashan/Tasca_S4_02_N1/blob/main/application-properties.png)](https://nodesource.com/products/nsolid)
+
+ <img src="https://github.com/gonzashan/Tasca_S4_02_N1/blob/main/application-properties.png" height="490" width="650" >
