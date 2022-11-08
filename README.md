@@ -40,4 +40,4 @@ La classe ubicada al paquet controllers (FruitaController, per exemple), haurà 
 
 ## application.properties
 
- <img src="https://github.com/gonzashan/Tasca_S4_02_N1/blob/main/application-properties.png" height="490" width="650" >
+ <img src="https://github.com/gonzashan/Tasca_S4_02_N1/blob/main/application-properties.png" height="290" width="450" >
